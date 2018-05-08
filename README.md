@@ -13,8 +13,8 @@ I have used the following dependencies.
    
 # Results
 
-Below is the result for the processes that occurs in the back end of the script for detection.
-![alt-text-1](https://github.com/hasibzunair/strawberry-detector/blob/master/Figure_1.png "title-1")<br /><br />
+Below is the result for the processes that occurs in the back end of the script for detection.<br /><br />
+![alt-text-1](https://github.com/hasibzunair/strawberry-detector/blob/master/Figure_1.png "title-1")<br />
 
 Here are the results showing the input image and the contour drawn in the output image. There is no straighforward determination of how accurate this system is bacause this is just simply extracting a specific color range, red in this case.<br /><br />
 
