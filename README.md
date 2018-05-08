@@ -13,7 +13,7 @@ I have used the following dependencies.
    
 # Results
 
-Below is the result for the processes that occurs in the back end of the script for detection.<br /><br />
+Below is the result for the processes that occurs in the back end of the script for detection. A mask is created and then it is being further processed to reduce noise. Finally morphiological transformation is done to get a more smooth mask which is followed by drawing a contour over the original input image which is shown at the output.<br /><br />
 ![alt-text-1](https://github.com/hasibzunair/strawberry-detector/blob/master/Figure_1.png "title-1")
 
 Here are the results showing the input image and the contour drawn in the output image. There is no straighforward determination of how accurate this system is bacause this is just simply extracting a specific color range, red in this case.<br />
