@@ -13,7 +13,7 @@ I have used the following dependencies.
    
 # Results
 
-Below is the result for the processes that occurs in the back end of the script for detection.<br /><br /><br />
+Below is the result for the processes that occurs in the back end of the script for detection.
 ![alt-text-1](https://github.com/hasibzunair/strawberry-detector/blob/master/Figure_1.png "title-1")
 
 Here are the results showing the input image and the contour drawn in the output image.
