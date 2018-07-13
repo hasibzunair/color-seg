@@ -6,7 +6,7 @@ Here I have demonstrated a strawberry detector using color segementation and ima
 
 I have used the following dependencies.
 
-   * openCV
+   * cv
    * matplotlib
    * numpy
    * math
